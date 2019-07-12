@@ -1,6 +1,6 @@
 # gall.vim
 
-effectively a clone of [https://github.com/dylanaraps](dylanarap's) [https://github.com/dylanaraps/wal.vim](wal.vim).
+effectively a clone of [dylanarap's](https://github.com/dylanaraps) [wal.vim](https://github.com/dylanaraps/wal.vim)
 
 gall.vim will diverge with time.
 
