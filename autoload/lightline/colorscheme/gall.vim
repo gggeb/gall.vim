@@ -21,7 +21,7 @@ let s:p.insert.left  = [ [ s:black, s:green ], [ s:cyan, s:black ] ]
 let s:p.replace.left = [ [ s:black, s:red ],   [ s:cyan, s:black ] ]
 let s:p.visual.left  = [ [ s:black, s:blue ],  [ s:cyan, s:black ] ]
 
-let s:p.normal.middle   = [ [ s:white, s:black ] ]
+let s:p.normal.middle   = [ [ s:gray, s:black ] ]
 let s:p.inactive.middle = [ [ s:gray,  s:black ] ]
 
 let s:p.tabline.left   = [ [ s:black, s:green ] ]
